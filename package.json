@@ -1,5 +1,5 @@
 {
-  "name": "source-map-flatten",
+  "name": "flatten-source-map",
   "version": "0.0.1",
   "description": "",
   "main": "lib/flatten.js",
