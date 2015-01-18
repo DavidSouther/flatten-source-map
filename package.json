@@ -1,7 +1,7 @@
 {
   "name": "flatten-source-map",
   "version": "0.0.1",
-  "description": "",
+  "description": "Flatten sections from a source map into a single mappings string.",
   "main": "lib/flatten.js",
   "scripts": {
     "test": "node ./lib/test.js"
