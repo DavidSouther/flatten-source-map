@@ -1,10 +1,10 @@
 {
   "name": "flatten-source-map",
   "version": "0.0.1",
-  "description": "",
+  "description": "Flatten sections from a source map into a single mappings string.",
   "main": "lib/flatten.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./lib/test.js"
   },
   "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
   "license": "ISC",
