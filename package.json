@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/flatten.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./lib/test.js"
   },
   "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
   "license": "ISC",
