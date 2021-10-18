@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node ./lib/test.js"
   },
+  "repository": {	
+    "type": "git",
+    "url": "https://github.com/DavidSouther/flatten-source-map.git"
+  },
   "author": "David Souther <davidsouther@gmail.com> (https://davidsouther.com/)",
   "license": "ISC",
   "dependencies": {
